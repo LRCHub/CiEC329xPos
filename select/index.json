@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "祝福のメシアとアイの塔",
+  "base_artist": "ひとしずく×やま△",
+  "createdAt": "2026-02-12T06:48:48.322418Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "ひとしずく, やま△ feat. 初音ミク, 鏡音リン, 鏡音レン, 巡音ルカ, KAITO, MEIKO, GUMI, 神威がくぽ, IA, MAYU",
+      "has_synced": false,
+      "path": "select/01_祝福のメシアとアイの塔_ひとしずく,_やま△_feat._初音ミク,_鏡音リン,_鏡音レン,_巡音ルカ,_KAITO,_MEIKO,_GUMI,_神威がくぽ,_IA,_MAYU.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "ひとしずく, やま△",
+      "has_synced": false,
+      "path": "select/02_祝福のメシアとアイの塔_ひとしずく,_やま△.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "hitosizuku, Yama Sankakkei feat. Hatsune, Miku, Kagamine, Rin, Kagamine, Len, Megurine, Luka, KAITO, MEIKO, GUMI, Kamui, Gakupo, IA, MAYU",
+      "has_synced": false,
+      "path": "select/03_祝福のメシアとアイの塔_hitosizuku,_Yama_Sankakkei_feat._Hatsune,_Miku,_Kagamine,_Rin,_Kagamine,_Len,_Me.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "VA",
+      "has_synced": false,
+      "path": "select/04_祝福のメシアとアイの塔_VA.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祝福のメシアとアイの塔",
+      "artist": "ひとしずく×やま△",
+      "has_synced": false,
+      "path": "select/pl_01_祝福のメシアとアイの塔_ひとしずく×やま△.txt"
+    }
+  ]
+}
